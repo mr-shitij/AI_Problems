@@ -10,14 +10,14 @@ This repository contains AI Problems
 
 ## ⚙️ Problems
 1. Write a program in Python to design the Depth First Search (DFS) and Breadth First Search (BFS) Algorithm, which find the path from a given start state to the goal state in state space.
+2. Write a program in Python to design the A-Star Algorithm, which find the path from a given start state to the goal state in state space.
 
-
-## 🌟 Contribute
+## 🌟To Contribute
 1. BestFS
-2. A Star
-3. UCS (Uniform Cost Search)
+2. UCS (Uniform Cost Search)
 
 
-## 🤖 Author
+## 🤖 Contributer
 [mr-shitij](https://github.com/mr-shitij)
+[Nupur Chavan](https://github.com/NupurChavan)
 

@@ -13,10 +13,8 @@ This repository contains AI Problems
 2. Write a program in Python to design the A-Star Algorithm, which find the path from a given start state to the goal state in state space.
 3. Write a program in Python to design the UCS Algorithm, which find the path from a given start state to the goal state in state space.
 
-## 🌟To Contribute
-1. BestFS
-
 ## 🤖 Contributer
 [mr-shitij](https://github.com/mr-shitij)
 [Nupur Chavan](https://github.com/NupurChavan)
 [mr-sanskarjamadar](https://github.com/sanskarjamadar)
+[tech-sumit](https://github.com/tech-sumit)

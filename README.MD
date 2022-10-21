@@ -5,7 +5,7 @@
 # AI Problems
 
 
-## 🛠️ Description
+## 🛠️ Repo. Description
 This repository contains AI Problems 
 
 ## ⚙️ Problems
